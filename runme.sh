@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # uname -a
 uname -a
